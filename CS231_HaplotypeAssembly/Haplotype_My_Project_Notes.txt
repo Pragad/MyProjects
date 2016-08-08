@@ -1,0 +1,201 @@
+We refer to haplotype data as
+information from each copy of the chromosome and genotype data as information combined
+from both copies for an individual.
+
+
+
+Biological Introduction
+
+Problem Motivation
+	why would you want to do this
+
+Problem Statement (Need not have title) or haplotype problem
+	Smoother transistion, explain how the problem formulation is related to the 
+
+Benchmarks
+	Speed
+	computational time
+	accuracy
+	size of haplotype and read matrix
+	
+Assumptions
+	
+
+Baseline method/
+	baseline for the mapping/ slow way to do the mapping
+	
+Speed / Accuracy
+
+Limitations
+
+Futurework
+
+References
+---------------
+Clarity
+
+Experiments
+
+Extras
+
+Flip your slide before done with the sentence
+	pause 2secs before switching to presentation
+	
+Using pictures
+
+
+either make the slides go point by point so that you can explain each point
+
+how do you generate reads ? Presentation 3 : 14:02
+
+insert random length at random positions
+
+I also parallelized it and these are the results
+
+computational problem - what is the input, what is the output and how you measure the output
+
+baseline method:
+	should be a solution to the problem
+	
+hard to understand what we are trying to do
+	explain the problem and the benchmards
+		how we would evaluate it, accuracy how fast it is 
+
+Baseline method should be a simpler one
+	and then go about explaining your method
+	
+	and then telling how my method is different from the base line method 
+	
+	
+vary the amount of data and accuracy 
+	map as a graphs
+	
+Lot of different things/ improving etc
+	different methods
+	Structure the way we describe the method but not the overall presentation
+	mixing performance with the method that we do
+	first tell what are the methods you tried
+Use title in such a way that it helps the body
+	
+don't write entire sentences as bullets
+
+Motivation
+
+explain actual problem
+Bilogical problem
+Computational problem
+define benchmarks
+	how we would evaluate the solution
+	help people understand 
+	
+Baseline methods
+
+Future work
+
+Don't need transitions between sections
+
+P12:
+Challenges
+
+conceptual difference between your approach and baseline approach
+
+HAPLOTYPE PHYLOGENY:
+	Problem:
+		Benchmark comes here itself where you describe the problem
+	
+P9:
+HAPLOTYPE ASSEMBLY
+
+Error rate of Sequences/Read 1% of error
+------------------------------------------------------------------------------------------------------------------------------
+TO DO:
+Gaps
+Sequence error rate
+
+divide input matrix into two sets
+	- finding complement sets
+
+other name for HA
+---------------------------------------------------------------------------------------------------------------------------
+Haplotype:
+The genomes of 2 humans have identical nucleotides at more than 99% of the positions. 
+The other positions where variation is observed within a species are called SNPs
+For almost all of these SNPs, only two out of the four nucleotides are observed.
+So Chromosomes can be iewed as BINARY STRINGS, where each position describes the nucleotides that this individual has at a certain SNP
+These binary strings are called HAPLOTYPE.
+
+In case of diploid organisms we have a pair of chromosomes and we would like to obtain two haplotypes per individual.
+
+SINGLE INDIVIDUAL HAPLOTYPING:
+	The lab oratory inve s-tigations usually re turn fragments of the two s equences , and our general goal
+is to merge the se fragme nts into the two haplotyp e s. T he ?rst main c ompli-cation is that it is not known which fragm ent c ome s from which chrom osome .
+Secondly, the m erging pro c ess c an b e disturb ed by meas urem ent errors in the
+fragme nts.
+
+To formalis e the problem, haplotyp e fragme nts are de sc rib e d by se que nc es of
+the symb ols ’0’, ’1’ and ’-’, whe re a ’-’ is c alle d a hole and denotes that
+the fragm ent do e s not give any information ab out this s p ec i?c SNP. A gap in
+a haplotyp e fragment is a maximal contiguous blo ck of hole s that is ?anked
+on b oth s ides by non- hole s ymb ols . For example, the fragm ent ---0010---has no gaps, -0--10-111 has two gaps, and -0-----1-- has one gap.
+The input to Single I ndividual Haplotyping problems is an SNP matrix M
+having e ntries from {0 , 1 , -}, with EACH ROW OF THE MATRIX CORRE SP ONDING TO
+A HAPLOTYP E FRAGME NT. An input m atrix is s aid to b e gapless if there are no
+rows with gaps.
+
+In this c ase , the se two rows are said to con?ict . An
+SNP m atrix M is feasible if the rows of M can b e partitioned into two se ts
+such that all rows within e ach se t are pairwise non-con?ic ting. If this is the
+cas e, the n the re exist two haplotyp e s (binary strings ) s uch that each row of M
+do e s not con?ict with at leas t one of the two haplotyp es. On the othe r hand,
+when a matrix is not fe asible , then it is s till p oss ible that all fragme nts c ome
+from two haplotyp es , if e rrors have b e en made during se que ncing. To mo de l
+such errors, de ?ne a ?ip as conve rting a 0 entry to a 1, or vice -versa. The ?rst
+concrete problem c ons idered in this thes is is Mini mum Er ror Correction
+(MEC), intro duc ed by Gree nb erg e t al. [Gre 04]. The ob je ctive in MEC is to
+?ip as few entries of the input matrix as p oss ible to arrive at a feas ible m atrix
+
+Mini mum Error Correction (MEC )
+Input : An SNP m atrix M .
+Outp ut: The smalles t numb er of ?ips ne eded to m ake M feasible .
+--------
+Given a set of aligned fragments, Haplotype assembly is the problem of finding the haplotypes ffrom which the fragments have been read.
+
+The haplotype information is very important to many genomic analyses such as the analusis of potential association between certain diseases and genetic variations
+Haplotype information is centric to to the study of DNA variation. 
+The hapmap project
+------------------------------------------------------------------------------------------------------------------------------
+Video - Lecture 3c: 7:33min
+
+We have two haplotypes; We don't know which read comes from which haplotype. So we reassemble to reads to haplotypes
+
+random acgt string for length 3 B
+
+
+make complicated by adding more repeated region
+
+control by add
+
+bit operations to do the matching
+extra caching
+
+program implemented
+some experiments
+
+applied trivial algo on whole genome 64Gig RAM - does not count
+
+take genome split into pieces, build indexes - 10times slower
+
+implement your own mapper -> 
+small genome to see trivial algo
+
+small genome -> python hash table
+---------------------------------------------------------------------------
+must analyze data in project
+must have experiments - simulated data, ran some method, 
+must describe experiments and results in presentation
+
+no screenshots, code or demo
+prove by showing results
+something new is required
+
+clarity

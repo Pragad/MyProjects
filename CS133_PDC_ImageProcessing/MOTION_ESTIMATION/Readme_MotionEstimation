@@ -1,0 +1,22 @@
+Two oset of images can be used to run the Motion Estimation codes:
+	1) Small Image	:  m3.bmp, m4.bmp 600*800 image
+	2) Big Image	:  m3_scaled.bmp, m4_scaled.bmp 1200*1600 image
+
+The default block size is 20 and window size is 40
+
+Sequential Code:
+	FileName	: motionestimation_seq.c
+	Compilation	: gcc -o motion_seq motionestimation_seq.c bmpfile.c -lm
+	Execution	: ./motion_seq m3.bmp m4.bmp
+
+Parallel Code
+	FileName	: motionestimation_parallel.c
+	Compilation 	: gcc -fopenmp -o motion_par motionestimation_parallel.c bmpfile.c -lm
+	Execution	: ./motion_par m3.bmp m4.bmp <number of thread>
+
+Parallel Code Version 2:
+	FileName	: motionestimation_altparallel.c
+
+	Compilation	: gcc -fopenmp -o motion_altpar motionestimation_altparallel.c bmpfile.c -lm
+	
+	Execution	: ./motion_altpar m3.bmp m4.bmp <number of thread>

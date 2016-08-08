@@ -1,0 +1,15 @@
+Image Used: Tux.bmp
+
+Sequential Code:
+	FileName	: rotate_seq.c
+	Compilation	: gcc -o rotate_seq rotate_seq.c bmpfile.c -lm
+	Execution	: ./rotate_seq tux.bmp 45
+			: execution_file image_name angle
+
+Parallel Code
+	FileName	: rotate_pll.c
+	Compilation	: gcc -o rotate_pll rotate_pll.c bmpfile.c -lm
+	Execution	: ./rotate_pll tux.bmp 45 16 2
+			: execution_file image_name angle number_of_threads chunk_size
+
+

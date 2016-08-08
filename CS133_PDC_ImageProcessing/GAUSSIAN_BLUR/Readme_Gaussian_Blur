@@ -1,0 +1,9 @@
+Image Used: tux.bmp
+
+Both Sequential Code and Parallel Code are writting in the same file as two different functions
+Sequential And Parallel Code:
+	FileName	: gaussian.c
+	Compilation	: gcc -o gauss gaussian.c bmpfile.c -lm
+	Execution	: ./gauss tux.bmp 3
+			: execution_file image_name sigma_value
+

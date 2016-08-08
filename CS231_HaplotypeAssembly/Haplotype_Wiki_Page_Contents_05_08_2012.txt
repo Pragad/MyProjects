@@ -1,0 +1,81 @@
+++ Project Member
+Pragadheeshwaran Thirumurthi
+UCLA ID: 904-000-582
+
+++ Project Description
+The Project aims to reassemble the haplotypes by linking the reads together. Reads are generated from Haplotypes by a Sequencer and represented as Binary Strings. Representing as binary strings makes computation easier as we only have to care about the positions that vary. But the relationship between the reads and the haplotype is not known, i.e. Which reads come from which haplotype.
+
+So in this project we basically align the reads to a reference genome to find out the SNP (Single Nucleotide Polymorphism) positions. The haplotypes from such Read collections are assembled together and we build a greedy algorithm for haplotype phasing from sequence reads. Also it should allow for sequencing errors. 
+
+**Project Understanding**
+We have two chromosomes with two kind of variants. Sequencing the chromosomes we get reads from both the chromosomes. So we have two different Reads from two chromosomes. But in reality, the reads get mixed together which makes it difficult to find which reads are from which chromosomes. 
+
+Assemble two haplotypes from the collection of such set of reads.  The key idea is behind the variants present in the Reads. It 
+shows that the read is from the same haplotype. i.e. If there exists a reads, T-G from Chromosome 1 then if there is another Read G-C, it indicates that T-G-C are from the same chromosome. This is because G as a link. 
+
+In this project, we aim to identify the haplotypes to which each reads are associated.
+
+**Difficulty Level**
+Medium
+
+++ About Me
+I am Pragadheeshwaran Thirumurthi, a Computer Science Master’s student at UCLA. I am interested in Network and Systems. I have a passion towards programming and a willingness to build new applications and systems. 
+
+++ Goals of this Quarter
+I have always been interested in Computational Biology. The way how human genomes vary and the various methods involved in analyzing the genomes fascinates me. From this course, I want to gain good understanding of how to solve biological problems using computational techniques and algorithms. My goal for this quarter is to gain more knowledge of solving genomic problems using computational techniques and apply the same to complete this project. 
+
+++ Weekly Schedule
+
+**__Week 4:__**
+__Tasks Completed__
+* Creation of Wiki Page for the Project.
+* Gaining a clear understanding of the Project.
+**Grade**  A
+
+**__Week 5:__**
+__Tasks Completed__
+* Design and Requirement analysis for the project.
+* Decide on how to approach the problem.
+* Split the project into sub modules.
+* Generate input data/chromosome sequence for working on the project.
+* Decided on tool and language (IDE) for working on the project.
+	
+
+__Tasks In Progress__
+Still trying to figure out how to analyze the data to design a better algorithm for approaching the problem.	
+
+	
+**Grade**  A-
+
+**__Week 6:__**
+__Tasks Completed__
+* Went through various haplotype assembly reference papers. 
+* Clarified doubts on complexity involved in project implementation.
+
+__Tasks in Progress__
+* Collected sample haplotype for input data.
+* A clear idea of how to go about implementing the project/
+* Stared with the Implementation of the project.
+
+**__Week 7:__**
+Implementation of the project
+
+**__Week 8:__**
+Testing and Performance Evaluation
+
+++ Related Papers / Links
+* Seung-Ho Kang, In-Seon Jeong, Hwan-Gue Cho, Hyeong-Seok Lim "HapAssembler: A web server for haplotype assembly from SNP fragments using genetic algorithm"
+
+
+++ Updates
+**Week 4 Updates:**
+__April 28, 2012__
+Created wiki page; Added //detailed project description//
+
+**Week 5 Updates:**
+__May 5, 2012__
+Looking into algorithms, Languages, IDE and project implementation related stuff.
+
+**Week 6 Updates:**
+__May 8, 2012__
+Searched online and looked into various papers; Updated //Reference papers//

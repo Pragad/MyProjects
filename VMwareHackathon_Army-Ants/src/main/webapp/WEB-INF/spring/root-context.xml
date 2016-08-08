@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:cloud="http://schema.cloudfoundry.org/spring"
+	xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:task="http://www.springframework.org/schema/task"
+	xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.1.xsd
+        http://schema.cloudfoundry.org/spring
+        http://schema.cloudfoundry.org/spring/cloudfoundry-spring.xsd
+        http://www.springframework.org/schema/task  
+		http://www.springframework.org/schema/task/spring-task-3.0.xsd
+		http://www.springframework.org/schema/data/mongo
+		http://www.springframework.org/schema/data/mongo/spring-mongo-1.0.xsd">
+	
+	<context:annotation-config/>
+	<context:component-scan base-package="com.vmware.armyants" />
+	<task:annotation-driven />
+	
+	<!-- Lucene beans -->
+	
+	<bean id="repo" class="com.vmware.armyants.DocStore" autowire="byName" />
+	<bean id="searchEngine" class="com.vmware.armyants.LuceneIndexer" autowire="byName" scope="singleton">
+		<constructor-arg ref="repo" />
+	</bean>
+	
+	<!-- database for document store -->
+	<bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
+		<constructor-arg ref="testDocStore"/> 	
+	</bean>
+	
+	<!-- Profiles -->
+	<beans profile="default">
+		<mongo:db-factory id="testDocStore" dbname="test" host="127.0.0.1" port="27017" username="" password=""/>
+	</beans>
+	
+	<beans profile="cloud">
+		<cloud:mongo-db-factory id="testDocStore"/>
+	</beans>
+</beans>

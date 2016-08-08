@@ -1,0 +1,15 @@
+Image Used: tux.bmp
+
+Sequential Code:
+	FileName	: scale_seq.c
+	Compilation	: gcc -o scale_seq scale_seq.c bmpfile.c -lm
+	Execution	: ./scale_seq tux.bmp 2 2
+			: execution_file image_name scale_along_x scale_along_y
+
+Parallel Code
+	FileName	: scale_pll.c
+	Compilation	: gcc -o scale_pll scale_pll.c bmpfile.c -lm
+	Execution	: ./rotate_pll tux.bmp 0.5 0.5 16 2
+			: execution_file image_name scale_along_x scale_along_y number_of_threads chunk_size
+
+
