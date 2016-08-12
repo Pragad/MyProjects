@@ -1,0 +1,1106 @@
+The Routing Table of Node 1 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.8          8       (  100,  200)    0.785937333  
+ SENSOR     0.0.0.2          2       (  200,  100)    1.005938333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 1 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  139,  100)    2(0.0.0.2)        47.246082103  
+------------------------------------------------------------
+
+The Location Directory of Node 1 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    53.756109333  
+------------------------------------------------------------
+
+The Routing Table of Node 2 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.3          3       (  300,  100)    0.760937333  
+ SENSOR     0.0.0.9          9       (  200,  200)    1.040938333  
+ SENSOR     0.0.0.1          1       (  100,  100)    0.750937333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 2 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  239,  100)    3(0.0.0.3)        52.746104123  
+------------------------------------------------------------
+
+The Location Directory of Node 2 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    53.496107247  
+------------------------------------------------------------
+
+The Routing Table of Node 3 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.4          4       (  400,  100)    0.265935333  
+ SENSOR     0.0.0.10         10      (  300,  200)    0.295935333  
+ SENSOR     0.0.0.2          2       (  200,  100)    0.505936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 3 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  300,  129)    4(0.0.0.4)        54.746112123  
+------------------------------------------------------------
+
+The Location Directory of Node 3 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    58.766129333  
+------------------------------------------------------------
+
+The Routing Table of Node 4 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.3          3       (  300,  100)    0.260935333  
+ SENSOR     0.0.0.5          5       (  500,  100)    0.270935333  
+ SENSOR     0.0.0.11         11      (  400,  200)    0.300935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 4 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  400,  100)    5(0.0.0.5)        56.746120123  
+------------------------------------------------------------
+
+The Location Directory of Node 4 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  400,  400)    14.300951333  
+------------------------------------------------------------
+
+The Routing Table of Node 5 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.4          4       (  400,  100)    0.515936333  
+ SENSOR     0.0.0.6          6       (  600,  100)    0.275935333  
+ SENSOR     0.0.0.12         12      (  500,  200)    0.305935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 5 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  100)    12(0.0.0.12)        58.746128183  
+------------------------------------------------------------
+
+The Location Directory of Node 5 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  300)    24.055990333  
+------------------------------------------------------------
+
+The Routing Table of Node 6 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.5          5       (  500,  100)    0.520936333  
+ SENSOR     0.0.0.7          7       (  700,  100)    0.280935333  
+ SENSOR     0.0.0.13         13      (  600,  200)    0.310935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 6 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 6 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    60.271135333  
+------------------------------------------------------------
+
+The Routing Table of Node 7 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.6          6       (  600,  100)    0.525936333  
+ SENSOR     0.0.0.14         14      (  700,  200)    0.315935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 7 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 7 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    64.066150333  
+------------------------------------------------------------
+
+The Routing Table of Node 8 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.9          9       (  200,  200)    0.290935333  
+ SENSOR     0.0.0.15         15      (  100,  300)    0.320935333  
+ SENSOR     0.0.0.1          1       (  100,  100)    0.500936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 8 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 8 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 9 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.8          8       (  100,  200)    0.285935333  
+ SENSOR     0.0.0.10         10      (  300,  200)    0.545936333  
+ SENSOR     0.0.0.16         16      (  200,  300)    0.325935333  
+ SENSOR     0.0.0.2          2       (  200,  100)    0.755937333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 9 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 9 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    53.256107333  
+------------------------------------------------------------
+
+The Routing Table of Node 10 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.3          3       (  300,  100)    0.510936333  
+ SENSOR     0.0.0.9          9       (  200,  200)    0.540936333  
+ SENSOR     0.0.0.11         11      (  400,  200)    0.550936333  
+ SENSOR     0.0.0.17         17      (  300,  300)    0.330935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 10 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  300,  229)    3(0.0.0.3)        28.246006027  
+------------------------------------------------------------
+
+The Location Directory of Node 10 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    53.291107333  
+------------------------------------------------------------
+
+The Routing Table of Node 11 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.4          4       (  400,  100)    0.765937333  
+ SENSOR     0.0.0.10         10      (  300,  200)    0.795937333  
+ SENSOR     0.0.0.12         12      (  500,  200)    0.555936333  
+ SENSOR     0.0.0.18         18      (  400,  300)    0.335935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 11 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 11 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  400,  400)    13.835949333  
+------------------------------------------------------------
+
+The Routing Table of Node 12 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.5          5       (  500,  100)    0.770937333  
+ SENSOR     0.0.0.11         11      (  400,  200)    0.800937333  
+ SENSOR     0.0.0.13         13      (  600,  200)    0.560936333  
+ SENSOR     0.0.0.19         19      (  500,  300)    0.340935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 12 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  212)    19(0.0.0.19)        60.246134227  
+------------------------------------------------------------
+
+The Location Directory of Node 12 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  300,  100)    35.801037333  
+------------------------------------------------------------
+
+The Routing Table of Node 13 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.6          6       (  600,  100)    0.775937333  
+ SENSOR     0.0.0.12         12      (  500,  200)    0.805937333  
+ SENSOR     0.0.0.14         14      (  700,  200)    0.565936333  
+ SENSOR     0.0.0.20         20      (  600,  300)    0.345935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 13 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 13 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 14 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.7          7       (  700,  100)    0.530936333  
+ SENSOR     0.0.0.13         13      (  600,  200)    0.810937333  
+ SENSOR     0.0.0.21         21      (  700,  300)    0.350935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 14 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 14 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    63.851149333  
+------------------------------------------------------------
+
+The Routing Table of Node 15 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.8          8       (  100,  200)    0.535936333  
+ SENSOR     0.0.0.16         16      (  200,  300)    0.575936333  
+ SENSOR     0.0.0.22         22      (  100,  400)    0.355935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 15 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 15 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    46.826081333  
+------------------------------------------------------------
+
+The Routing Table of Node 16 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.9          9       (  200,  200)    0.790937333  
+ SENSOR     0.0.0.15         15      (  100,  300)    0.570936333  
+ SENSOR     0.0.0.17         17      (  300,  300)    0.580936333  
+ SENSOR     0.0.0.23         23      (  200,  400)    0.360935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 16 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 16 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 17 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.10         10      (  300,  200)    1.045938333  
+ SENSOR     0.0.0.16         16      (  200,  300)    0.825937333  
+ SENSOR     0.0.0.18         18      (  400,  300)    0.585936333  
+ SENSOR     0.0.0.24         24      (  300,  400)    0.365935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 17 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  300,  300)    10(0.0.0.10)        25.745996070  
+------------------------------------------------------------
+
+The Location Directory of Node 17 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    53.546108333  
+------------------------------------------------------------
+
+The Routing Table of Node 18 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.11         11      (  400,  200)    1.050938333  
+ SENSOR     0.0.0.17         17      (  300,  300)    0.830937333  
+ SENSOR     0.0.0.19         19      (  500,  300)    0.590936333  
+ SENSOR     0.0.0.25         25      (  400,  400)    0.370935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 18 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  400,  300)    17(0.0.0.17)        24.245990163  
+------------------------------------------------------------
+
+The Location Directory of Node 18 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    53.581108333  
+------------------------------------------------------------
+
+The Routing Table of Node 19 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.12         12      (  500,  200)    1.055938333  
+ SENSOR     0.0.0.18         18      (  400,  300)    0.835937333  
+ SENSOR     0.0.0.20         20      (  600,  300)    0.595936333  
+ SENSOR     0.0.0.26         26      (  500,  400)    0.375935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 19 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  330)    26(0.0.0.26)        61.746140267  
+------------------------------------------------------------
+
+The Location Directory of Node 19 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  300)    23.745988387  
+------------------------------------------------------------
+
+The Routing Table of Node 20 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.13         13      (  600,  200)    1.060938333  
+ SENSOR     0.0.0.19         19      (  500,  300)    0.840937333  
+ SENSOR     0.0.0.21         21      (  700,  300)    0.600936333  
+ SENSOR     0.0.0.27         27      (  600,  400)    0.380935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 20 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 20 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 21 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.14         14      (  700,  200)    0.815937333  
+ SENSOR     0.0.0.20         20      (  600,  300)    0.845937333  
+ SENSOR     0.0.0.28         28      (  700,  400)    0.385935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 21 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 21 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    63.636148333  
+------------------------------------------------------------
+
+The Routing Table of Node 22 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.15         15      (  100,  300)    0.820937333  
+ SENSOR     0.0.0.23         23      (  200,  400)    0.610936333  
+ SENSOR     0.0.0.29         29      (  100,  500)    0.390935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 22 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 22 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 23 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.16         16      (  200,  300)    1.075938333  
+ SENSOR     0.0.0.22         22      (  100,  400)    0.605936333  
+ SENSOR     0.0.0.24         24      (  300,  400)    0.615936333  
+ SENSOR     0.0.0.30         30      (  200,  500)    0.395935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 23 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 23 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 24 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.17         17      (  300,  300)    1.080938333  
+ SENSOR     0.0.0.23         23      (  200,  400)    0.860937333  
+ SENSOR     0.0.0.25         25      (  400,  400)    0.620936333  
+ SENSOR     0.0.0.31         31      (  300,  500)    0.400935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 24 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 24 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 25 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.18         18      (  400,  300)    1.085938333  
+ SENSOR     0.0.0.24         24      (  300,  400)    0.865937333  
+ SENSOR     0.0.0.26         26      (  500,  400)    0.625936333  
+ SENSOR     0.0.0.32         32      (  400,  500)    0.405935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 25 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  425,  400)    0()        67.746164097  
+------------------------------------------------------------
+
+The Location Directory of Node 25 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    63.626148333  
+------------------------------------------------------------
+
+The Routing Table of Node 26 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.19         19      (  500,  300)    1.090938333  
+ SENSOR     0.0.0.25         25      (  400,  400)    0.870937333  
+ SENSOR     0.0.0.27         27      (  600,  400)    0.630936333  
+ SENSOR     0.0.0.33         33      (  500,  500)    0.410935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 26 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    25(0.0.0.25)        62.746144030  
+------------------------------------------------------------
+
+The Location Directory of Node 26 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    63.496147060  
+------------------------------------------------------------
+
+The Routing Table of Node 27 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.20         20      (  600,  300)    1.095938333  
+ SENSOR     0.0.0.26         26      (  500,  400)    0.875937333  
+ SENSOR     0.0.0.28         28      (  700,  400)    0.635936333  
+ SENSOR     0.0.0.34         34      (  600,  500)    0.415935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 27 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 27 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    63.376147333  
+------------------------------------------------------------
+
+The Routing Table of Node 28 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.21         21      (  700,  300)    0.850937333  
+ SENSOR     0.0.0.27         27      (  600,  400)    0.880937333  
+ SENSOR     0.0.0.35         35      (  700,  500)    0.420935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 28 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 28 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  500,  400)    63.381147333  
+------------------------------------------------------------
+
+The Routing Table of Node 29 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.22         22      (  100,  400)    0.855937333  
+ SENSOR     0.0.0.30         30      (  200,  500)    0.645936333  
+ SENSOR     0.0.0.36         36      (  100,  600)    0.425935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 29 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 29 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 30 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.23         23      (  200,  400)    1.110938333  
+ SENSOR     0.0.0.29         29      (  100,  500)    0.640936333  
+ SENSOR     0.0.0.31         31      (  300,  500)    0.650936333  
+ SENSOR     0.0.0.37         37      (  200,  600)    0.430935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 30 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 30 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 31 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.24         24      (  300,  400)    1.115938333  
+ SENSOR     0.0.0.30         30      (  200,  500)    0.895937333  
+ SENSOR     0.0.0.32         32      (  400,  500)    0.655936333  
+ SENSOR     0.0.0.38         38      (  300,  600)    0.435935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 31 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 31 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 32 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.25         25      (  400,  400)    1.120938333  
+ SENSOR     0.0.0.31         31      (  300,  500)    0.900937333  
+ SENSOR     0.0.0.33         33      (  500,  500)    0.660936333  
+ SENSOR     0.0.0.39         39      (  400,  600)    0.440935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 32 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 32 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 33 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.26         26      (  500,  400)    1.125938333  
+ SENSOR     0.0.0.32         32      (  400,  500)    0.905937333  
+ SENSOR     0.0.0.34         34      (  600,  500)    0.665936333  
+ SENSOR     0.0.0.40         40      (  500,  600)    0.445935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 33 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 33 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 34 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.27         27      (  600,  400)    1.130938333  
+ SENSOR     0.0.0.33         33      (  500,  500)    0.910937333  
+ SENSOR     0.0.0.35         35      (  700,  500)    0.670936333  
+ SENSOR     0.0.0.41         41      (  600,  600)    0.450935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 34 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 34 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 35 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.28         28      (  700,  400)    0.885937333  
+ SENSOR     0.0.0.34         34      (  600,  500)    0.915937333  
+ SENSOR     0.0.0.42         42      (  700,  600)    0.455935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 35 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 35 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 36 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.29         29      (  100,  500)    0.890937333  
+ SENSOR     0.0.0.37         37      (  200,  600)    0.930937333  
+ SENSOR     0.0.0.43         43      (  100,  700)    0.460935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 36 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 36 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 37 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.30         30      (  200,  500)    1.145938333  
+ SENSOR     0.0.0.36         36      (  100,  600)    0.675936333  
+ SENSOR     0.0.0.38         38      (  300,  600)    0.685936333  
+ SENSOR     0.0.0.44         44      (  200,  700)    0.465935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 37 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 37 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 38 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.31         31      (  300,  500)    1.150938333  
+ SENSOR     0.0.0.37         37      (  200,  600)    0.680936333  
+ SENSOR     0.0.0.39         39      (  400,  600)    0.690936333  
+ SENSOR     0.0.0.45         45      (  300,  700)    0.470935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 38 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 38 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 39 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.32         32      (  400,  500)    1.155938333  
+ SENSOR     0.0.0.38         38      (  300,  600)    0.935937333  
+ SENSOR     0.0.0.40         40      (  500,  600)    0.945937333  
+ SENSOR     0.0.0.46         46      (  400,  700)    0.475935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 39 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 39 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 40 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.33         33      (  500,  500)    1.160938333  
+ SENSOR     0.0.0.39         39      (  400,  600)    0.940937333  
+ SENSOR     0.0.0.41         41      (  600,  600)    0.700936333  
+ SENSOR     0.0.0.47         47      (  500,  700)    0.480935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 40 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 40 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 41 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.34         34      (  600,  500)    1.165938333  
+ SENSOR     0.0.0.40         40      (  500,  600)    0.695936333  
+ SENSOR     0.0.0.42         42      (  700,  600)    0.705936333  
+ SENSOR     0.0.0.48         48      (  600,  700)    0.485935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 41 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 41 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    64.416151333  
+------------------------------------------------------------
+
+The Routing Table of Node 42 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.35         35      (  700,  500)    0.920937333  
+ SENSOR     0.0.0.41         41      (  600,  600)    0.950937333  
+ SENSOR     0.0.0.49         49      (  700,  700)    0.490935333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 42 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 42 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 43 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.36         36      (  100,  600)    0.925937333  
+ SENSOR     0.0.0.44         44      (  200,  700)    0.965937333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 43 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 43 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 44 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.37         37      (  200,  600)    1.180938333  
+ SENSOR     0.0.0.43         43      (  100,  700)    0.710936333  
+ SENSOR     0.0.0.45         45      (  300,  700)    0.720936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 44 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 44 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  300,  100)    37.471043333  
+------------------------------------------------------------
+
+The Routing Table of Node 45 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.38         38      (  300,  600)    1.185938333  
+ SENSOR     0.0.0.44         44      (  200,  700)    0.715936333  
+ SENSOR     0.0.0.46         46      (  400,  700)    0.725936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 45 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 45 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 46 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.39         39      (  400,  600)    1.190938333  
+ SENSOR     0.0.0.45         45      (  300,  700)    0.970937333  
+ SENSOR     0.0.0.47         47      (  500,  700)    0.730936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 46 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 46 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 47 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.40         40      (  500,  600)    1.195938333  
+ SENSOR     0.0.0.46         46      (  400,  700)    0.975937333  
+ SENSOR     0.0.0.48         48      (  600,  700)    0.735936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 47 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 47 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ VEHICLE    0.0.0.50         50      (  200,  100)    48.946089333  
+------------------------------------------------------------
+
+The Routing Table of Node 48 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.41         41      (  600,  600)    1.200938333  
+ SENSOR     0.0.0.47         47      (  500,  700)    0.980937333  
+ SENSOR     0.0.0.49         49      (  700,  700)    0.740936333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 48 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 48 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 49 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.42         42      (  700,  600)    0.955937333  
+ SENSOR     0.0.0.48         48      (  600,  700)    0.985937333  
+------------------------------------------------------------
+
+The Vehicle Table of Node 49 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 49 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Routing Table of Node 50 is:
+The Routing Table is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+ SENSOR     0.0.0.25         25      (  400,  400)    56.871161133  
+ SENSOR     0.0.0.26         26      (  500,  400)    56.876161200  
+------------------------------------------------------------
+
+The Vehicle Table of Node 50 is:
+The Vehicle Table is:
+ Type       Node            Seq       Position      RelayNode    Time     
+------------------------------------------------------------
+------------------------------------------------------------
+
+The Location Directory of Node 50 is:
+The Location Directory is:
+ Type       Node            Seq   Position         Time     
+------------------------------------------------------------
+------------------------------------------------------------
+

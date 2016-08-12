@@ -1,0 +1,170 @@
+http://civiccommons.org/apps/drupal
+
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>Drupal is a powerful content management system (CMS). CMSs enable easy management of workflow in a collaborative environment to power any type of website, from government sites to social networking sites.</p>
+<p>Although Drupal offers a sophisticated programming interface for developers, no programming skills are required for basic website installation and administration.</p>
+<p>Video: <a href="http://dai.ly/gabKRV">http://dai.ly/gabKRV</a></p>
+<p>For a full list of governments using drupal see:<br /><a href="http://groups.drupal.org/node/24119#USA">http://groups.drupal.org/node/24119#USA</a><br /><a href="http://groups.drupal.org/government-sites#USA">http://groups.drupal.org/government-sites#USA</a></p>
+</div>
+      </div>
+</div>
+<div clas
+
+--------------------------------
+http://civiccommons.org/apps/citizen-budget
+
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>Get citizens involved in the budget process.</p>
+<ul><li>Educate citizens about the trade-offs involved in the budget.</li>
+<li>Improve the relationship between citizens and your city.</li>
+<li>Engage more constituents than ever before.</li>
+<li>Involve people in the decisions that affect their lives.</li>
+</ul><p>"More fun than Angry Birds!" - The Globe and Mail Citizen Budget is a customizable budget simulator that will get you hundreds of realistic budgets from your citizens.</p>
+</div>
+      </div>
+</div>
+-----------------------------------------
+http://civiccommons.org/apps/public-works-agency
+
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>OVERVIEW</p>
+<p>
+</p><p>PublicWorksAgency.com is the 1st social networking portal available on the Web and on Mobile devices for the Public Works Industry. Also known as <a href="http://www.twitter.com/pwapn" target="_blank">@PWAPN</a> on Twitter, we bring together professionals in over 30+ industries providing products, services and solutions for Public Works and Infrastructure.  We are working to provide a social networking portal to enable trusted public and private partnerships. We appreciate your recommendations, referrals and any suggestions to improve this comprehensive portal service.</p>
+<p> </p>
+<p>OUR HISTORY</p>
+<p>
+</p><p>Officially launched January 1, 2011, PublicWorksAgency.com has seen an amazing amount of Internet traffic. We are doing all the research necessary to utilize the benefits of Internet traffic by designing a social networking portal for Business and Government engagement and ecommerce via the web and mobile devices.</p>
+<p>Since our launch, we have seen over 958,997 page views, acquired over 985 members organically and consistently growing; we continue to acquire new members using the latest emarketing tools and techniques. Also, we have access to a complete directory of over 500,000+ businesses and government agency contact details and we plan to fully utilize this directory by executing targeted marketing campaigns to keep PWAPN members fully engaged within the public works industry.</p>
+<p>While we are enhancing our services, we will also continue to make our Business and Government profile services FREE of charge so that organizations who provide services and solutions to the Public Works Industry can have the all the tools necessary to promote their professional capabilities to key contacts.</p>
+<p>We are here to stay and support you!</p>
+<p>THE SERVICE</p>
+<p>
+</p><p>PublicWorksAgency.com provides a 5 MB  <a href="http://pwapn.publicworksagency.com/signup" target="_blank"> FREE</a> business and government listing, we are a debt free company and we plan to be around for the foreseeable future providing services to Business and Government actively engaged in the field of public works and infrastructure. We do, however, charge for additional CloudErgy server space (5, 25, 50 100, 500 MB or 2, 5, 10 GB of server space or more for a fee), <a href="http://pwapn.publicworksagency.com/ads/help-and-learnmore" target="_blank"> banner advertising</a>, <a href="http://pwapn.publicworksagency.com/jobs/packages" target="_blank"> job postings</a> and opening an <a href="http://pwapn.publicworksagency.com/store/manage" target="_blank"> eStore</a> to sell products and service to other members.  Other charges on the social networking portal will include basic and comprehensive background verification checks of your organization and individuals who work for you to confirm who they say they are.</p>
+<p>
+</p><p>Modules Include:</p>
+<ul><li>Web and mobile access (iPhone, <a href="https://play.google.com/store/apps/details?id=com.publicworksagency.app&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5wdWJsaWN3b3Jrc2FnZW5jeS5hcHAiXQ" target="_blank"> Android</a>, Blackberry, etc)</li>
+<li>User and business profiles</li>
+<li>Company and individual background checks</li>
+<li><a href="http://pwapn.publicworksagency.com/store/manage" target="_blank">eStore</a> Front to sell product to other member</li>
+<li>Location check-in and maps</li>
+<li>Upload and share <a href="http://pwapn.publicworksagency.com/folders" target="_blank"> solicitations</a></li>
+<li>Employer <a href="http://pwapn.publicworksagency.com/jobs/packages" target="_blank"> job postings</a> and member job search</li>
+<li>Create private <a href="http://pwapn.publicworksagency.com/groups" target="_blank"> group discussions</a></li>
+<li>Schedule and invite members to industry <a href="http://pwapn.publicworksagency.com/events" target="_blank"> events</a></li>
+<li>Post news <a href="http://pwapn.publicworksagency.com/articles" target="_blank"> articles</a> and press releases</li>
+<li>Social Network connectivity and marketing (<a href="http://www.linkedin.com/company/publicworksagency.com" target="_blank">LinkedIn</a>, <a href="http://www.facebook.com/pages/Public-Works-Agency/269236243130608" target="_blank"> Facebook</a>, <a href="http://www.twitter.com/pwapn" target="_blank"> Twitter</a>, <a href="http://www.youtube.com/publicworksagency" target="_blank"> YouTube</a> and <a href="http://pinterest.com/publicworks/" target="_blank"> Pinterest</a>)</li>
+<li><a href="http://pwapn.publicworksagency.com/ads/help-and-learnmore" target="_blank">Self-serve advertising</a>, industry newsletters and specialty advertising opportunities</li>
+<li><a href="http://pwapn.publicworksagency.com/blog" target="_blank">Blog</a>, <a href="http://pwapn.publicworksagency.com/forums" target="_blank"> forum</a> and create <a href="http://pwapn.publicworksagency.com/polls" target="_blank"> polls</a></li>
+<li>Post special <a href="http://pwapn.publicworksagency.com/classifieds" target="_blank"> classifieds</a></li>
+<li><a href="http://pwapn.publicworksagency.com/videos" target="_blank">Videos</a> and photos</li>
+</ul><p> </p>
+<p>THE MARKET</p>
+<p>
+</p><p>Public Works is a multi-billion dollar industry that includes but not limited to: Government Procurement, Public Works, Architectural, Citizen Request, Construction, Education, Emergency Management , Employment, Engineering, Facilities Management, Fleet Management Services, Forest and Wet Lands, General Contracting, GIS/Mapping Technologies, Environment and Green Technology, Leadership and Management, Legal Services, Logistics, Parks and Recreation, Public Safety and Security, Recycling, Snow and Ice Management, Solid Waste Management, Streets, Roads and Bridges, Storm Water and Flood Control, Technology, Transportation, Utility and Public Right of Way, Waste Water Management.</p>
+<p>JOIN US </p>
+<p>Join PublicWorksAgency.com today for  <a href="http://pwapn.publicworksagency.com/signup" target="_blank"> FREE</a> and begin taking advantage of the latest online tools to position your organization for key business connections.</p>
+<p>PublicWorksAgency.com is here to help businesses meet each other and government agencies so that these compatible organizations can connect and create opportunities.</p>
+<p>Get started today and if you need assistance, please contact us at (866) 921-8060 or email <a href="mailto:support@publicworksagency.com" target="_blank"> support@publicworksagency.com</a>.</p>
+</div>
+      </div>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/mapbox
+
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>MapBox is a suite of open source mapping tools made by Development Seed, a creative technical team based in Washington, DC.  Their products help clients tell stories using maps and share them on the web and offline.</p>
+<p>TileMill automates as much as possible for you – sharing data between projects, downloading and unzipping shapefiles, autodetecting projections, indexing SQLite databases – so that you can focus on making beautiful maps.  It can read from a wide range of popular file formats and databases: ESRI Shapefile, KML, GeoJSON, GeoTIFF, PostGIS, and SQLite.  It can also show satellite terrain data or make use of your DIY weather balloon aerial photography with TileMill’s raster image support.<br />
+And with a built-in data inspector, you can see details about every lake, country, or road from your datasource.</p>
+<p>At TileMill’s core is the Mapnik rendering engine. Mapnik is a powerful, full-featured library including support for RGBA color, True Type fonts, rasters, patterns, etc.  You can stamp trees across parks, add paper creases to maps.  You can use your system fonts or drop pro fonts into projects.  And Mapnik isn’t just beautiful. It’s also one of the fastest map rendering libraries out there.</p>
+<p>Enrich your maps with hover tooltips and clickable pop ups. Reveal details in your data by embedding numbers, graphs, and images into your map.  TileMill implements the UTF-8 grid specification – a standard for describing interactive data alongside tile images. UTF-8 grid is fast, flexible, and scalable making it perfect for mapping whole countries down to to individual city blocks.  Create interactivity for hundreds of thousands of data points while maintaining high performance.  </p>
+<p>Every map you make in TileMill is mobile ready. By leveraging the portable, fast MBTiles format, each TileMill map looks and works great on the web and offline.</p>
+</div>
+      </div>
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/civiguard
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"> CiviGuard provides simplified operational continuity for disaster preparedness.
+
+<b>CiviGuard in NYC for Irene</b>
+CiviGuard deployed this during the mandatory evacuation of NYC. Over 7,500 citizens utilized this simple application on iOS and Android platforms to get information about whether they needed to evacuate or not. </div>
+      </div>
+</div>
+<div class="edit-content-button"><a href="/node/13743/edit#edit-field-application-description">+ edit description</a></div>
+
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/red-hat-enterprise-linux
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>Linux</p>
+</div>
+      </div>
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/geocode-compare
+
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>Geo coding.</p>
+</div>
+      </div>
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/votorola
+
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p><strong>Votorola</strong> is social software in support of non-party primary elections and public rule making. We develop the tools to enable a radically free democracy based on unrestricted voting, drafting and discussion. Our alpha prototypes cover everything from voter registration in electoral districts to consensus making, and we lead the field in design, theory and inventions.</p>
+</div>
+      </div>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/public-art-archive
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p>Visit <a href="http://www.publicartarchive.org">PublicArtArchive.org</a> from your desk or mobile device to search for and explore public art in North America. Comprehensive data combined with vibrant multi-media options create a complete story of any public art work. With google maps integration, finding art is easy! Collection showcase pages offer agencies an affordable online presence for their art collection where they can highlight topics that matter to them.  The Public Art Archive is supported by a regional arts service organization, <a href="http://www.westaf.org">WESTAF</a>, so it has a bright future. Contribute by emailing <a href="mailto:PAArchive@westaf.org">PAArchive@westaf.org</a>.</p>
+</div>
+      </div>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------
+http://civiccommons.org/apps/livestream
+<div class="field field-name-field-application-description field-type-text-long field-label-hidden clearfix">
+    
+  <div class="field-items">
+          <div class="field-item even"><p><a href="http://new.livestream.com/" title="Livestream">Livestream</a> is the market leader for live event coverage. With simple to use technology, our<a href="http://new.livestream.com/broadcast-live/livestream-your-events" title="Livestream Service">service</a> allows anyone to broadcast live to the web, as well as being the top destination for live content from around the world. Our <a href="http://new.livestream.com/broadcast-live/our-customers" title="Livestream Customers">clients</a> include Facebook, The New York Times, ABC News, CBS News, Associated Press, HBO, AT&amp;T, PepsiCo, Electronic Arts, Adidas, The Academy Awards, Warner Bros. Records, and Paramount Pictures.</p>
+<p> </p>
+<p>The <a href="http://new.livestream.com/" title="Livestream">New Livestream</a> is an innovative new platform; available in beta that combines live video with real-time photos, text, and video clip updates. The technology supports live blogging all executed with ease using the real-time posting tools from both mobile and the web. Features on the New Livestream include an improved video player and an array of new tools that allow more people to discover your event, interact with it and share it across the web.</p>
+<p> </p>
+<p> </p>
+</div>
+      </div>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------

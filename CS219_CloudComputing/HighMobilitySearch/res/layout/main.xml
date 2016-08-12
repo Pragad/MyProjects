@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOn="Service Running..." 
+        android:textOff="Service Stopped."
+        android:onClick="onToggleClicked"/>
+
+<com.google.android.maps.MapView
+    	android:id="@+id/mapView"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:state_enabled="true"
+    	android:clickable="true"
+    	android:apiKey="0PSJqk7xolUDKnMd-UJTpYw26qUUJqWIGe59YEA" />
+
+</LinearLayout>

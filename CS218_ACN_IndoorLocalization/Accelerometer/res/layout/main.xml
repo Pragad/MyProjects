@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    />
+
+   
+<TextView
+ android:id="@+id/x"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+ 
+<TextView
+ android:id="@+id/xrate"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+<TextView
+ android:id="@+id/xstate"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+
+<TextView
+ android:id="@+id/y"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+<TextView
+ android:id="@+id/yrate"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+<TextView
+ android:id="@+id/ystate"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+  
+<TextView
+ android:id="@+id/z"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+<TextView
+ android:id="@+id/zrate"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+<TextView
+ android:id="@+id/zstate"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+ 
+ <TextView
+ android:id="@+id/event"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ />
+ 
+ <Button
+android:id="@+id/myButton1"
+android:layout_width="100px"
+android:layout_height="wrap_content"
+android:text="Start BT"
+/>
+
+    <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="fill_parent" android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1">
+      </LinearLayout>
+      
+       <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="fill_parent" android:layout_height="62dp" android:weightSum="1">
+      	<Button android:text="ScanBT" android:id="@+id/myButton1" android:layout_height="wrap_content" android:layout_width="0.5in" android:layout_marginLeft="0.1in"></Button>
+		<TextView android:id="@+id/textView3" android:textAppearance="?android:attr/textAppearanceMedium" android:text="MyDevice" android:layout_width="0.7in" android:layout_marginLeft="0.6in" android:layout_height="43dp"></TextView>
+</LinearLayout>
+
+<LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="fill_parent" android:layout_height="275dp" android:weightSum="1">     
+<ListView android:id="@+id/mylistView1" android:layout_width="1.3in" android:layout_marginLeft="0.1in" android:visibility="visible" android:layout_weight="0.55" android:layout_height="384dp"></ListView>
+</LinearLayout>
+ 
+</LinearLayout>
