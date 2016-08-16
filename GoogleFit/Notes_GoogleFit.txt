@@ -1,0 +1,12 @@
+Important Links:
+https://developers.google.com/fit/rest/v1/sessions
+http://orange.dataart.com/how-to-use-googlefit-api/
+http://code.tutsplus.com/tutorials/google-fit-for-android-reading-sensor-data--cms-25723
+
+http://stackoverflow.com/questions/36545347/how-do-i-get-the-all-time-data-from-google-fit-api
+http://stackoverflow.com/questions/27998823/how-to-get-step-count-from-google-fit-rest-api-like-google-fit-app
+http://stackoverflow.com/questions/27158645/how-do-i-retrieve-step-count-data-from-google-fitness-rest-api
+http://stackoverflow.com/questions/29414386/step-count-retrieved-through-google-fit-api-does-not-match-step-count-displayed
+http://stackoverflow.com/questions/32373465/get-current-activity-from-google-fit-api-android
+http://stackoverflow.com/questions/30156521/how-to-get-data-source-for-step-count-using-google-fit-android-api
+
